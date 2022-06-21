@@ -67,18 +67,18 @@ If you have any feedback, please reach out to me at deepanshuchugh@gmail.com
 
 ### responsive on large screens
 
-![image](https://user-images.githubusercontent.com/51326421/121102612-36e29c80-c828-11eb-9812-63401a44d81a.png)
+![image](./Screenshot%20(211).png)
 
 
 ### responsive on small screens
 
-![image](https://user-images.githubusercontent.com/51326421/121106925-30a4ee00-c831-11eb-9849-91b5462d6e82.png)
+![image](./Screenshot%20(215).png)
 
 
 
 ###  Searching Functionality
 
-![image](https://user-images.githubusercontent.com/51326421/121102842-ca1bd200-c828-11eb-85b3-4b55885be8fc.png)
+![image](./Screenshot%20(214).png)
 
 
   
